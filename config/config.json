@@ -1,0 +1,5 @@
+{
+    "mongodb_uri": "mongodb://localhost:27017/",
+    "db_name": "pdf_summary_db",
+    "collection_name": "pdfs"
+}
